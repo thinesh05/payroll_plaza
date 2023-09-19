@@ -30,3 +30,4 @@ yarn-error.log*
 /dist
 .env.development
 rsync.log
+node_modules/.cache/.eslintcache
